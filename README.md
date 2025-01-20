@@ -80,3 +80,5 @@ Suppose the secret word is **"SCALA"**.
    The player has guessed the entire word and **wins**!
 
 ---
+
+[Play here](https://hangmanwordgame.com/?fca=1&success=0#/)
